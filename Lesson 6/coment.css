@@ -1,0 +1,105 @@
+.conteiner {
+    height: 315px; 
+    width: 1300px; 
+    background: url(http://bgfons.com/upload/wood%20_texture545.jpg);}
+
+h1 {
+    margin: auto; 
+    font-size: 40px; 
+    text-align: center; 
+    padding-top: 40px; 
+    color: #3270a6; 
+    font-family: tahoma; 
+    font-weight: lighter; }
+
+.what {
+    color: #ed7f2b;}
+
+.conteiner2 {
+    display: flex; 
+    padding-top: 50px; 
+    margin: auto; 
+    width: 1023px; 
+    height: 101px; }
+
+img {
+    margin-right: 10px;}
+
+.aminal {
+    width: 367px; 
+    height: 98px; 
+    background: white; 
+    border: 1px; 
+    margin-right: 40px; 
+    margin-left: 20px; 
+    position: relative;}
+
+.arrow:before {  
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    position: absolute; 
+    right: 100%; 
+    top: 37px;
+    border-width: 12.5px 19px 12.5px 0;
+    border-color: transparent #fafcff transparent transparent;}
+
+li {
+    list-style-type: none;}
+
+.simba {
+    float: left; 
+    color: #306fa6;
+    margin-top: 12px;
+    margin-left: 15px;
+    font-family: tahoma;
+    font-size: smaller;
+    }
+
+.lion {
+    float: right;
+    color: #306fa6;
+   margin-top: 12px;
+    margin-right: 15px;
+    font-family: tahoma;
+    font-size: smaller;
+    
+}
+
+.dot {
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 2px;
+    color: #666666;
+}
+
+.text {
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 5px;
+    text-align: justify;
+    font-family: tahoma;
+    color: #666666;
+    font-size: smaller;}
+
+    .minions {
+     float: left; 
+    color: #306fa6;
+    margin-top: 12px;
+    margin-left: 15px;
+    font-family: tahoma;
+    font-size: smaller;
+    }
+
+    .crim {
+    float: right;
+    color: #306fa6;
+    margin-top: 12px;
+    margin-right: 15px;
+    font-family: tahoma;
+    font-size: smaller;     
+    }
+
+
+

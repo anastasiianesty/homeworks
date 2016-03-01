@@ -1,0 +1,54 @@
+.fl {display: flex; width: 876px; margin: auto}
+
+.container1
+ {height: 470px; width: 296px; text-align: center; border: 5px solid #ed7f2b; border-radius: 5px; box-shadow:0 0 10px grey; margin-top: 1%;}
+
+.container2
+ {height: 450px; width: 289px; text-align: center; border: 1px solid #e8e9eb; border-radius: 7px 0px 0px 7px; margin-top: 3%;}
+
+.container3
+ {height: 450px; width: 289px; text-align: center; border: 1px solid #e8e9eb;  border-radius: 0px 7px 7px 0px; margin-top: 3%;}
+
+
+.best {color: aliceblue; background:#ed7f2b; font-family: Trebuchet MS; padding: 9%; margin: 0;}
+
+.stand {color: aliceblue; background:#38c2d1; font-family: Trebuchet MS; padding: 8%; margin: 0; border-radius:7px 0px 0px 0px;}
+
+
+.ult {color: aliceblue; background:#1db597; font-family: Trebuchet MS; padding: 8%; margin: 0; border-radius:0px 7px 0px 0px;}
+
+
+
+.iconic {color: #354959;}
+
+li {list-style: none; text-align: left; font-size: 15px; font-family: Trebuchet MS; color: #A9A9A9; display: block; width: 85%; margin-bottom: 3px; padding-left:  15px; margin-left: 15px;  }
+
+    li:before {
+        margin: 15px; 
+    content: url(https://cdn2.iconfinder.com/data/icons/fugue/bonus/icons-24/tick.png);}
+
+li:nth-of-type(odd) {background:#edf5fc;}
+li:nth-of-type(even) {background:#f5f5f5}
+
+input[type=submit] 
+{color: white; background: #3372a6; height: 42px; width: 253px; text-decoration: none; border-radius: 6px; border-bottom-width: medium solid; border-right-style:solid; border-color: inherit;  font: Trebuchet MS 12px; margin-top: 10px; }
+ 
+.blue input[type=submit] {background: #3372a6}
+
+
+p {font-size: 80px; padding: 0; margin: 25px; font-family: Trebuchet MS; color: #354959; text-align: center;}
+
+p:before {
+  content: "$";
+  font-size: 20px;
+  font-weight: bold;
+  vertical-align: top;
+}
+p:after {
+    content: "Monthly";
+    font-size: 15px;
+    font-weight: bold;
+    vertical-align: bottom;
+}
+
+ul {margin: 0; padding: 0;}
