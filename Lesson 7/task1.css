@@ -1,0 +1,95 @@
+body { 
+    
+font-size: 74px;   
+
+font-family: verdana;
+color: transparent;
+text-shadow: 0 0 4px #626060;
+}
+
+.sivtsev {
+    height: 1112px;
+    width: 402px;
+    margin: auto;
+}
+
+.sight01 {font-size: 100%;
+   margin-top: auto;
+   word-spacing: 3.1em;
+    margin-bottom: 30px;
+}
+
+.sight02 { font-size: 90%;
+    word-spacing: 1.4em;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    
+}
+
+.sight03 { font-size: 80%;
+     word-spacing: 0.7em;
+    margin-top: 15px;
+     margin-bottom: 30px;
+    
+}
+
+.sight04 { font-size: 70%;
+     word-spacing: 29px;
+     margin-top: 15px;
+     margin-bottom: 30px;
+    
+}
+
+.sight05 { font-size: 60% ;
+        word-spacing: 36px;
+margin-top: 15px;
+     margin-bottom: 30px;
+    
+}
+
+.sight06 { font-size: 50% ;
+  word-spacing: 0.8em;
+    
+}
+
+.sight07 { font-size: 40%;
+   word-spacing: 1.3em;
+    
+}
+
+.sight08 { font-size: 30%;
+  word-spacing: 1.6em;
+}
+
+.sight09 { font-size: 25% ;
+  word-spacing: 2.2em;
+    
+}
+
+.sight10 { font-size: 20%;
+   word-spacing: 2.5em;
+    
+}
+
+.sight15 { font-size: 15%;
+    word-spacing: 3.6em;
+    
+}
+
+.sight20 { font-size: 13%;
+  word-spacing: 4.5em;
+    }
+
+.uline {
+    border: 1px solid rgba(128,0,0,0.3);
+    margin-right: 8px;
+    margin-left: -3px;
+}
+
+
+
+
+
+
+
+
