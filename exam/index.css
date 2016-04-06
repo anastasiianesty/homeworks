@@ -1,0 +1,389 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial';
+    
+}
+
+.header {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 990px;
+    height: 80px;
+    background: #3598db;
+}
+
+a {
+    text-decoration: none;
+}
+
+.color-background {
+    background: #3598db;
+}
+.header-logo {
+    color: white;
+    font-size: 26px;
+    padding-top: 10px;
+    float: left;
+    margin-left: 5px;
+}
+
+.header-logo-circus {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    font-size: 24px;
+    margin-right: 15px;
+}
+
+.connect {
+    float: right;
+    line-height: 45px; 
+    margin-right: 10px;
+    margin-left: 30px;
+}
+
+.con {
+   display: inline-block; 
+   color: white;
+   vertical-align:super;
+}
+
+.social { 
+    margin: 5px;
+}
+
+
+.background  {
+    background: url(background.jpg);
+    background-position: center center;
+  
+}
+.welcom {
+    margin: auto;
+    width: 100%;
+    max-width: 990px;
+    height: 350px;
+    color: white; 
+   
+}
+
+.word {
+    margin: 0px;
+    font-size: 50px;
+    padding-top: 70px;
+    line-height: 1,5;
+
+}
+
+.some-text {
+    font-size: 30px;
+    width: 500px;
+    margin: 0;
+    
+}
+
+.background-grey {
+    background: #f2f2f2;
+}
+
+.preview {
+    position: relative;
+    margin: 0 auto;
+    padding-top: 35px;
+    width: 990px;
+    height: 230px;
+    background: #f2f2f2;
+    
+}
+
+.abc {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.text {
+     color: #333333;
+     width: 100%;
+     max-width: 600px;
+     font-size: 12px;
+    
+}
+
+.form {
+    width: 360px;
+    height: 540px;
+    background: white;
+    position: absolute;
+    top: -320px;
+    right: 0;
+    border-bottom: 5px solid #3498db;
+}
+
+.start {
+    text-align: center;
+    font-size: 25px;
+}
+
+select { 
+    margin: 5px 20px 5px 20px;
+    padding-left: 15px;
+    background: #f2f2f2;
+    border: 1px solid #e6e6e6;
+    font-size: 15px;
+    width: 297px;
+    height: 35px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url(arrow-down-nav.png);
+    background-position: right 10px center;
+    background-repeat: no-repeat;
+}
+
+input {
+    margin: 5px 20px 5px 20px;
+    padding-left: 15px;
+    background: #f2f2f2;
+    border: 1px solid #e6e6e6;
+    font-size: 15px;
+    width: 280px;
+    height: 30px;
+}
+
+.adress {
+    padding-bottom: 60px;
+}
+
+.sub {
+    display: block;
+    margin: 10px auto;
+    width: 220px;
+    height: 60px;
+    font-size: 25px;
+    background: #e74c3c;
+    color: white;  
+}
+
+.sub:hover {
+    background: #3498db;
+}
+
+.benefits {
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.why {
+    font-size: 25px;
+    color: #3498db;
+    margin: 40px auto;
+    width: 100%;
+    max-width: 990px;
+}
+
+.foto {
+    width: 290px;
+    height: 160px;
+}
+
+.colums {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 990px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.head {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.text3 {
+    font-size: 13px;
+    width: 290px;
+    height: 119px;
+    line-height: 1.5;     
+}  
+
+.button {
+    display: block;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    margin: 50px auto;
+    border-radius: 50%;
+    border: 1px solid #e7e7e7;
+    font-size: 13px;
+    color: black;
+}
+    
+.button:hover {
+     box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px  rgba(0,0,0,.25)
+}
+
+.sf-wrapper {
+    width: 100%;
+    max-width: 990px;
+    height: 260px;
+    margin: 0 auto;
+}
+
+.what {
+    font-size: 25px;
+    color: #3498db;
+    float: left;
+    margin-top: 45px;
+}
+
+.arrow {
+    float:right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    line-height: 40px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid #efefef;
+    color: #888;
+    margin-top: 38px;
+    margin-right: 5px;
+}
+
+.arrow:active {
+    background: #f2f2f2;
+}
+
+.quote {
+    clear: both;
+    padding-top: 20px;
+    font-family: Arial;
+    font-size: 50px;
+    color: #f2f2f2;
+    font-weight: 800;
+    line-height: 15px;
+}  
+
+.text4 {
+    font-size: 13px;
+    width: 745px;
+    height: 30px;
+}
+
+.text5 {
+    margin-top: 15px;
+}
+
+.amanda {
+    text-align: right;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.bottom {
+    margin-top: 10px;
+    text-align: right;
+}
+
+.background-form {
+    background: #f2f2f2;
+    width: 100%;
+    height: 190px; 
+}
+
+.feedback-form {
+    width: 100%;
+    max-width: 990px; 
+    margin:auto;
+    position: relative;
+}
+
+.button-form {
+    height: 30px;
+    width: 100%;
+    max-width: 540px;
+    background: #e74c3c;
+    color: white;
+    font-size: 23px;
+    display: inline-block;
+    margin-top: 65px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px; 
+}
+
+.button-form:hover {
+    background: brown;
+} 
+
+.arrow2 {
+    float:right;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    line-height: 35px;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid #efefef;
+    color: white;
+    margin-top: -5px;
+    margin-right: 15px;
+  }
+
+.boy {
+    position: absolute;
+    bottom: -69px;
+    right: 30px;
+}
+
+.bgfooter {
+    background: #3498db;
+    width: 100%;
+    height: 195px;
+}
+
+.footer {
+    width: 100%;
+    max-width: 990px; 
+    margin: auto;
+    display: flex;
+    padding-top: 30px;
+}
+
+.logo-footer {
+    border-right: 2px solid #2980b9;
+}
+
+
+.footer-logo-circus {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    margin-right: 10px;
+ }
+
+.word22 {
+    margin-right: 20px;}
+
+
+.footer-text {
+    font-size: 13px;
+    color: white;
+    margin-top: -25px;
+}
+
+
